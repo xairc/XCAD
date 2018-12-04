@@ -36,7 +36,7 @@ After that preprecess the pretrained model vgg16_weights.npz
     cd preprocess
     python prepare.py
 
-Finally, go into the 'code' directory and run 'main_ICADx.py'.
+Finally, run 'main_ICADx.py'.
     
     cd ..
     python main_ICADx.py
